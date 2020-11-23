@@ -1,0 +1,24 @@
+# Getting Started with Testing in Python
+https://realpython.com/python-testing/#automating-the-execution-of-your-tests
+20201122
+
+Test Step
+Test Assertion
+Integration Testing
+
+unit Test
+
+1. An integration test checks that the components in your application operate with each other. 
+2. A unit test checks a small component in your application
+
+
+
+TESTRUNNERS
+
+unittest
+    https://docs.python.org/3/library/unittest.html
+nose2
+pytest
+    https://docs.pytest.org/en/latest/
+
+    
